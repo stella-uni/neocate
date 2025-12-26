@@ -20,7 +20,7 @@ export const MOCK_SONGS: Song[] = [
     usage: '참회',
     tags: ['참회', '감사'],
     sheets: ['/sheets/2.참회예절 감사송.png'],
-    audioUrl: '/audio/2.감사송 - 참회예절.mp3',
+    audioUrl: '/audio/2.참회예절 감사송.wav',
   },
   {
     id: '3',
@@ -40,7 +40,7 @@ export const MOCK_SONGS: Song[] = [
     usage: '성찬',
     tags: ['찬양'],
     sheets: ['/sheets/4.거룩하시도다 연중.png'],
-    audioUrl: '/audio/4-1.거룩하시도다 - 연중.mp3',
+    audioUrl: '/audio/4.거룩하시도다 연중.mp3',
   },
   {
     id: '4-2',
