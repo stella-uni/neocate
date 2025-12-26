@@ -9,7 +9,8 @@ export const MOCK_SONGS: Song[] = [
     category: '전례곡',
     usage: '참회',
     tags: ['참회'],
-    sheets: [],
+    sheets: ['/sheets/1.참회예절도문.png'],
+    audioUrl: '/audio/1.참회예절문.mp3',
   },
   {
     id: '2',
@@ -18,7 +19,8 @@ export const MOCK_SONGS: Song[] = [
     category: '전례곡',
     usage: '참회',
     tags: ['참회', '감사'],
-    sheets: [],
+    sheets: ['/sheets/2.참회예절 감사송.png'],
+    audioUrl: '/audio/2.감사송 - 참회예절.mp3',
   },
   {
     id: '3',
@@ -27,7 +29,8 @@ export const MOCK_SONGS: Song[] = [
     category: '전례곡',
     usage: '대영광송',
     tags: ['찬양'],
-    sheets: [],
+    sheets: ['/sheets/3.대영광송.png'],
+    audioUrl: '/audio/3.대영광송.mp3',
   },
   {
     id: '4-1',
@@ -36,7 +39,8 @@ export const MOCK_SONGS: Song[] = [
     category: '전례곡',
     usage: '성찬',
     tags: ['찬양'],
-    sheets: [],
+    sheets: ['/sheets/4.거룩하시도다 연중.png'],
+    audioUrl: '/audio/4-1.거룩하시도다 - 연중.mp3',
   },
   {
     id: '4-2',
